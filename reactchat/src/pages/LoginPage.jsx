@@ -107,7 +107,7 @@ const LoginPage = () => {
           <p>Important: To access the same chat later, both users must use the <strong style={{color: 'red'}}>same email addresses</strong> sent in the email.</p>
         </div>
       </div>
-    </div>
+    </div> 
   );
 };
 
